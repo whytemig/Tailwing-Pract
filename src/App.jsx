@@ -1,3 +1,4 @@
+import Destinations from "./components/Destinations"
 import MainTop from "./components/MainTop"
 import Navbar from "./components/Navbar"
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar />
       <MainTop />
+      <Destinations />
       
     </div>
    
