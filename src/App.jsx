@@ -1,5 +1,6 @@
 import Cards from "./components/Cards"
 import Destinations from "./components/Destinations"
+import Footer from "./components/Footer"
 import MainTop from "./components/MainTop"
 import Navbar from "./components/Navbar"
 import Slider from "./components/Slider"
@@ -15,6 +16,7 @@ function App() {
       <Vacations />
       <Cards />
       <Slider />
+      <Footer />
       
     </div>
    
